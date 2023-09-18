@@ -22,10 +22,12 @@
 	<img src="https://img.shields.io/badge/Bootstrap-yellow?style=flat&logo=Bootstrap&logoColor=7952B3"/>
 </p>
 
-<p align="center" display="inline-block">
+<div align="center">
+	
+	
+ ![keeemhs's GitHub stats](https://github-readme-stats.vercel.app/api?username=keeemhs&show_icons=true&theme=radical)
 
-![keeemhs's GitHub stats](https://github-readme-stats.vercel.app/api?username=keeemhs&show_icons=true&theme=radical)	
+</div>
 
-</p>
 
 
