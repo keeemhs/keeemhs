@@ -24,9 +24,6 @@
   
 </p>
 
-
-<p align="center">
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keeemhs&show_icons=true&theme=radical)	
-</p>
+![keeemhs's GitHub stats](https://github-readme-stats.vercel.app/api?username=keeemhs&show_icons=true&theme=radical)	
 
 
