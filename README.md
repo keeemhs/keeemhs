@@ -4,7 +4,6 @@
 </div>
 
 
-
 <p align="center">
 	<Strong>☁️Portfolio List☁️</Strong><br />
 	<p align="center">
@@ -12,7 +11,6 @@
     	<img src="https://img.shields.io/badge/Tistory-b4f5bd?style=flat&logo=Tistory&logoColor=black"/><br /><br /><br />
 	<Strong >📧Email📧</Strong><br>alenen0227@naver.com<br><br>
 </p>
-
 
 
 
